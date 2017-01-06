@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+header {
+margin: 0px;
+}
+.headerformat{
+  background-color: #444444;
+  height: 100px;
+  width: 100%;
+}
+
+body{
+background-color: #D8D8D8;
+margin: 0;
+
+}
+
+.middleimage{
+  background-color: #EFEFEF;
+
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.content {
+height: 600px;
+overflow:scroll;
+padding: 25 px;
+}
+
+
+
+
+footer {
+  background-color: #222222;
+  height: 5vh;
+  width: 60vw;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
